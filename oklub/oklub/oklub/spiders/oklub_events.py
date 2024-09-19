@@ -20,8 +20,8 @@ if isinstance(data, list) and len(data) > 0:
     events = first_item.get('events', [])
 
     # Your Telegram bot token
-    token = '7010034436:AAHiOn2FQtlzUtsG1lb2KjZJEcrjEDXuS2U'
-    chat_id = -1002302210369  # Telegram group ID
+    token = '7162097876:AAE27cvUGt6tUzuX3NI9VoNnoUsbNYYnBUM'
+    chat_id = -1002278281776  # Telegram group ID
 
     # Get today's date in day and month format
     today = datetime.today()
